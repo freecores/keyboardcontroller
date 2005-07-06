@@ -1,0 +1,16 @@
+Device utilization summary:
+---------------------------
+
+Selected Device : 3s1000ft256-4 
+
+ Number of Slices:                    2407  out of   7680    31%  
+ Number of Slice Flip Flops:          2109  out of  15360    13%  
+ Number of 4 input LUTs:              3188  out of  15360    20%  
+ Number of bonded IOBs:                 95  out of    173    54%  
+ Number of BRAMs:                       10  out of     24    41%  
+ Number of MULT18X18s:                   3  out of     24    12%  
+ Number of GCLKs:                        2  out of      8    25%  
+ Number of DCMs:                         1  out of      4    25%  
+
+
+=========================================================================
